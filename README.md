@@ -1,6 +1,9 @@
 # Language-Model-Next-Word-Prediction
 Next word prediction using language models
 
+讲解：[语言模型 实现 下一单词预测（next-word prediction）](https://blog.csdn.net/Friedrichor/article/details/126074843)
+
+
 数据集说明:
   
 <img src="https://user-images.githubusercontent.com/70964199/178480906-ee851fb3-c05a-4422-a536-cf0490b4e335.png" width="50%">
